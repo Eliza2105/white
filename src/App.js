@@ -3,7 +3,7 @@ import SA from './SA'
 
 function App() {
   return (
-    <div className="App">Master</div>
+    <div className="App">Content</div>
   );
 }
 
